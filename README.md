@@ -2,7 +2,12 @@
 
 ## Aquí podrás encontrar todo el código que he aprendido y proyectos en los que estoy trabajando 💪
 
-![]https://media.licdn.com/dms/image/v2/C4D2DAQH7HeHED-cKvA/profile-treasury-image-shrink_800_800/profile-treasury-image-shrink_800_800/0/1619445356894?e=1741867200&v=beta&t=wogSlIztQpx4YewMZwjsXHpqgP_UcCstl8fMd3n0O50
+![](https://media.licdn.com/dms/image/v2/C4D2DAQH7HeHED-cKvA/profile-treasury-image-shrink_800_800/profile-treasury-image-shrink_800_800/0/1619445356894?e=1741867200&v=beta&t=wogSlIztQpx4YewMZwjsXHpqgP_UcCstl8fMd3n0O50)
+
+## Mis repositorios
+
+[Mi repositorio de prueba](https://www.linkedin.com/in/alba-fuentes-gonz%C3%A1lez-1570a6116/?originalSubdomain=es) Este es mi perfil de LinkedIn
+
 
 <!--
 **albafuentesglezz/AlbaFuentesGlezz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
