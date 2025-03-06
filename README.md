@@ -1,4 +1,6 @@
-## Hi there 👋
+# Hola a todos!, Bienvenidos a mi perfil de Github 👋
+
+## Aquí podrás encontrar todo el código que he aprendido y proyectos en los que estoy trabajando 💪
 
 <!--
 **albafuentesglezz/AlbaFuentesGlezz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
